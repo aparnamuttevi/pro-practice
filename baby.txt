@@ -1,1 +1,2 @@
+git has source code
 git is repository
